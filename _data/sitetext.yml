@@ -110,7 +110,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Jeroen Kuipers"
         role: "Penningmeester"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/willem.jpg
       - name: "Larry Parker"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
