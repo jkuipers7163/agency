@@ -108,6 +108,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+      - name: "Jeroen Kuipers"
+        role: "Penningmeester"
+        image: assets/img/team/1.jpg
       - name: "Larry Parker"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
