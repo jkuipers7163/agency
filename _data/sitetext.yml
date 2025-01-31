@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: Meer
     buttonlink: "#team"
   
- services:
+  services:
     title: "Services"
     text: "Lorem ipsum"
     section: services
