@@ -12,9 +12,9 @@
 en: &DEFAULT_EN
   header:
     title: Welkom bij onze schapenstal!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    text: Leuk dat je ons bezoekt!
+    button: Meer
+    buttonlink: "#team"
 
   services:
     title: "Services"
